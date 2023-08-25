@@ -1,0 +1,10 @@
+.clear{
+    height: 80px;
+    font-size: 1.6rem;
+    background-color: #ac0246;
+}
+
+.clear:hover{
+    color: black;
+    background-color: #ebb000;
+}
